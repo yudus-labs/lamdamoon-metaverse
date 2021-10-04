@@ -76,7 +76,7 @@ export default function Home() {
         <title>Lambomoon Metaverse</title>
         <meta
           name="description"
-          content="A metaverse of L.A.M.B.O Solar System"
+          content="NFT metaverse game of L.A.M.B.O Solar System"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
@@ -84,11 +84,11 @@ export default function Home() {
         <meta property="twitter:title" content="Lambomoon Metaverse" />
         <meta
           property="twitter:description"
-          content="A metaverse of L.A.M.B.O Solar System"
+          content="NFT metaverse game of L.A.M.B.O Solar System"
         />
         <meta
           property="twitter:image"
-          content="https://raw.githubusercontent.com/duyyudus/lambomoon-metaverse/master/static/logo-full.png"
+          content="https://raw.githubusercontent.com/yudus-labs/lambomoon-metaverse/master/static/logo-full.png"
         />
 
         <meta property="og:url" content="https://lambomoon.xyz" />
@@ -96,11 +96,11 @@ export default function Home() {
         <meta property="og:title" content="Lambomoon Metaverse" />
         <meta
           property="og:description"
-          content="A metaverse of L.A.M.B.O Solar System"
+          content="NFT metaverse game of L.A.M.B.O Solar System"
         />
         <meta
           property="og:image"
-          content="https://raw.githubusercontent.com/duyyudus/lambomoon-metaverse/master/static/logo-full.png"
+          content="https://raw.githubusercontent.com/yudus-labs/lambomoon-metaverse/master/static/logo-full.png"
         />
       </Helmet>
       <div className="row">

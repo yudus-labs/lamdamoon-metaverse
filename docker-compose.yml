@@ -1,0 +1,9 @@
+version: '3'
+services:
+  lambomoon-metaverse-website:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: duyyudus/lambomoon-metaverse-website
+    container_name: lambomoon-metaverse-website
+    restart: always

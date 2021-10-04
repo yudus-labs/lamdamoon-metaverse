@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
+@import "common.css";
+
+html body {
+  font-family: "Quicksand", sans-serif;
+  background-color: var(--bg) !important;
+  /* background-image: url("../../../static/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; */
+}
+body::after {
+  content: "";
+  background: url("../../../static/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+code {
+  font-family: "PT Mono", source-code-pro, Menlo, Monaco, Consolas,
+    "Courier New", monospace;
+}
+
+.not-found {
+  color: var(--golden);
+}
+
+.home {
+  /* padding: 0 0 0 0; */
+  max-width: 1000px;
+  color: var(--cyan);
+}
+
+.custom-link {
+  color: var(--teal);
+  text-decoration: none;
+}
+.custom-link:hover {
+  color: var(--teal-lighter) !important;
+}
+.try-it-link {
+  color: var(--teal);
+  font-style: italic;
+  font-weight: normal;
+  font-size: 16px;
+  margin: 4px 0 0 0;
+}
+.try-it-link:hover {
+  color: var(--teal-lighter) !important;
+}
+
+.logo {
+  margin: 0 0 0 0;
+}
+.img-logo {
+  width: 100%;
+}
+
+.intro {
+  margin: 150px 0 20px 0;
+}
+.intro-main {
+  font-size: 48px;
+}
+.intro-sub {
+  font-size: 16px;
+}

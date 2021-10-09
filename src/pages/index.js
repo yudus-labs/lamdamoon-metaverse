@@ -1,7 +1,22 @@
 import React from "react";
 import { Helmet } from "react-helmet";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./css/index.css";
+
+const markdown = `**Lambomoon Metaverse** is an experimental NFT game, which is built on top of Moonbeam/Polkadot and Unreal Engine 5.
+
+**Lambomoon** is the moon of **Lambo**, the 3rd planet in **L.A.M.B.O solar system**. This is where you can build moonbase, spaceship, your army, even tele-portal powered by dark matter. All such things are stepping stones for you to explore, secure the land, collect resource, find ancient alien technology blueprint, and fight with monster to earn **Lambonium** reward on outlandish planets in a far-far away galaxy from earth.
+
+And if getting bored, you can start a war with other players to take over their asset if you win ( you may lose though ). You can even fly spaceship in Lambo sky and fight with others.
+
+Such activities, will happen in an immersive realistic 3D experience, powered by the most advanced game engine in the world.
+
+And the greatest thing is, you own everything you try hard to achieve. It is permanently stored on blockchain, no one is able to take it from you.
+
+You got hyped already ? Great, now let's fuel your spaceship and fly to the moon.
+`;
 
 function Logo() {
   return (
@@ -33,35 +48,36 @@ function Intro() {
 
           <div className="row justify-content-center color-cyan intro-sub">
             <div className="col-auto">
-              <p align="center">
-                <b>Lambomoon</b> is the moon of L.A.M.B.O, the third planet in
-                L.A.M.B.O solar system
-                <br />
-                <br />
-                powered by{" "}
-                <a className="custom-link" href="https://moonbeam.network">
-                  Moonbeam
-                </a>
-                ,{" "}
-                <a className="custom-link" href="https://polkadot.network">
-                  Polkadot
-                </a>{" "}
-                and{" "}
-                <a className="custom-link" href="https://unrealengine.com">
-                  Unreal Engine 5
-                </a>
-                <br />
-                <br />
-                backed by{" "}
-                <a className="custom-link" href="https://lambomoon.ventures">
-                  Lambomoon Ventures
-                </a>
-                <br />
-                <br />
-                ...more details coming soon...
-              </p>
+              <ReactMarkdown children={markdown} remarkPlugins={[remarkGfm]} />
             </div>
           </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+function Copyright() {
+  return (
+    <div className="copyright">
+      <div className="row">
+        <div className="col-auto">
+          A proud product of{" "}
+          <a className="custom-link" href="https://yudus.dev">
+            Yudus Labs
+          </a>{" "}
+          and{" "}
+          <a className="custom-link" href="https://lambomoon.ventures">
+            Lambomoon Ventures
+          </a>
+          <br />
+          Details are available at our{" "}
+          <a
+            className="custom-link"
+            href="https://medium.com/lambomoon-metaverse"
+          >
+            Medium
+          </a>
+          <br />
         </div>
       </div>
     </div>
@@ -76,7 +92,7 @@ export default function Home() {
         <title>Lambomoon Metaverse</title>
         <meta
           name="description"
-          content="NFT metaverse game of L.A.M.B.O Solar System"
+          content="A high-end NFT metaverse powered by Moonbeam/Polkadot and Unreal Engine 5"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
@@ -84,7 +100,7 @@ export default function Home() {
         <meta property="twitter:title" content="Lambomoon Metaverse" />
         <meta
           property="twitter:description"
-          content="NFT metaverse game of L.A.M.B.O Solar System"
+          content="A high-end NFT metaverse powered by Moonbeam/Polkadot and Unreal Engine 5"
         />
         <meta
           property="twitter:image"
@@ -96,7 +112,7 @@ export default function Home() {
         <meta property="og:title" content="Lambomoon Metaverse" />
         <meta
           property="og:description"
-          content="NFT metaverse game of L.A.M.B.O Solar System"
+          content="A high-end NFT metaverse powered by Moonbeam/Polkadot and Unreal Engine 5"
         />
         <meta
           property="og:image"
@@ -107,6 +123,7 @@ export default function Home() {
         <div className="col">
           {/* <Logo /> */}
           <Intro />
+          <Copyright />
         </div>
       </div>
     </div>

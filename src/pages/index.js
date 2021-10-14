@@ -70,12 +70,12 @@ function Copyright() {
             Lambomoon Ventures
           </a>
           <br />
-          Details are available at our{" "}
+          All details are available at our{" "}
           <a
             className="custom-link"
-            href="https://medium.com/lambomoon-metaverse"
+            href="https://wiki.lambomoon.xyz"
           >
-            Medium
+            Wiki
           </a>
           <br />
         </div>

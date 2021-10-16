@@ -2,7 +2,7 @@
 
 The core mechanism in Lambomoon Metaverse is **NTF Engineering** and its relationship with main fungible tokens ( LBM and LDM ), which play important role in gameplay, in-game economic, and play-to-earn incentives.
 
-This repo consists of essential documents for **NFT Engineering** and its implementation in Solidity.
+This repo provides an overview of tokenomic, **NFT Engineering** and its implementation in Solidity.
 
 We are going to discuss about 2 main fungible tokens first : **LBM** and **LDM**
 

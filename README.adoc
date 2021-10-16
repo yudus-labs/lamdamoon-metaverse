@@ -1,5 +1,0 @@
-# Welcome to Lambomoon Metaverse
-
-This repo is reserved for smart contract code
-
-Coming soon...

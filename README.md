@@ -1,10 +1,12 @@
 # Lambomoon Metaverse
 
-The core mechanism in Lambomoon Metaverse is **NTF Engineering** and its relationship with main fungible tokens ( LBM and LDM ), which play important role in gameplay, in-game economic, and play-to-earn incentives.
+The core mechanism in Lambomoon Metaverse is **NTF Engineering** and its relationship with main fungible tokens ( LBM and LDM ), which play important role in gameplay, in-game economic, play-to-earn incentives, and governance.
+
+Before continue, please read about [story & gameplay](https://wiki.lambomoon.xyz/2264ecc193e04659adc9f3475e52ddf1) first.
 
 This repo provides an overview of tokenomic, **NFT Engineering** and its implementation in Solidity.
 
-We are going to discuss about 2 main fungible tokens first : **LBM** and **LDM**
+Now we are going to discuss about 2 main fungible tokens : **LBM** and **LDM**
 
 For detail of NFT, please see [NFT System](docs/nft.md)
 
@@ -32,7 +34,7 @@ By design, maximum inflation rate should be between 15% - 20% annually, it shoul
 
 We all know that both hyper-inflation and hyper-deflation are not good for any economy, therefore max supply limit may be adjusted by governance in a distance future ( when the game jump to Chapter 4, which will explore other planets )
 
-**How to earn**
+**How to obtain**
 
 - Buy on market
 - Rewarded in PvE by clearing a land plot on Lambo planet for the first time
@@ -59,7 +61,7 @@ LDM is governance token, unlike other projects, the only way to mint new LDM is 
 
 _Just note that, in early stage, for smooth and fast development, governance is dev team itself, until coin-voting governance is enabled._
 
-**How to earn**
+**How to obtain**
 
 - Buy on market
 - Burn a large amount of LBM in **Lambonium Reactor**
@@ -67,7 +69,7 @@ _Just note that, in early stage, for smooth and fast development, governance is 
 **Utilities**
 
 - Governance, _e.g. control treasury spending on public goods, vote on reward rate..._
-- Essential for creating new tele-portals as well as special equipment/weapon NFTs.
+- Essential for creating new tele-portals as well as special equipment/weapon NFTs
 - Consumed in NFT Engineering process
 
 ### License

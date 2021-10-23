@@ -8,7 +8,7 @@ This repo provides an overview of tokenomic, **NFT Engineering** and its impleme
 
 Now we are going to discuss about 2 main fungible tokens : **LBM** and **LDM**
 
-For detail of NFT, please see [NFT System](docs/nft.md)
+For detail of NFT, please see [NFT Composition](docs/nft.md)
 
 ## Lambonium - LBM
 

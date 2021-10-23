@@ -1,63 +1,87 @@
-# NFT System
+# NFT Composition
 
-## 1. NFT Categories
+**_Updated 22 Oct_**
 
-To bootstrap the game, essential NFT categories are available in NFT public sale, the rest must be earned in the game, or minted in NFT Engineering procedure. Detail at the end of this page.
+To bootstrap the game, essential NFT categories are available in NFT public sale, the rest must be obtained in the game, or minted in **NFT Engineering** process which you can learn more about at the end of this page.
 
 Note that, all NFT items are exchangeable on marketplace.
 
-### [Lambomoon Land](nft_categories/Lambomoon%20Land%2074198bbe6d7f400993bad3543b9f43ed.md)
+### In overall, **NFT** Composition consists of
+
+- NFT Categorization
+- NFT Source
+- NFT Engineering
+  - NFT Resource Dependency Graph
+  - NFT Resource Engineering Formula
+
+## 1. NFT Categorization
+
+### [Lambomoon Land](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Lambomoon%20Land%2074198bbe6d7f400993bad3543b9f43ed.md)
 
 This is where Lambase stations are built
 
-### [Lambase Station](nft_categories/Lambase%20Station%203a9e6d4ae99645e28b6c0aecac17e82c.md)
-
-Different types of Lambase station on Lambomoon
-
-### [Lambo Land](nft_categories/Lambo%20Land%20fa665279b9934c98a85638b630224fc3.md)
-
-Land on Lambo planet
-
-### [Material](nft_categories/Material%206bf15b1ce39b415bb578ff877a155af4.md)
+### [Material](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Material%206bf15b1ce39b415bb578ff877a155af4.md)
 
 Material for equipment and infrastructure building
 
-### [Equipment](nft_categories/Equipment%205c71927085e244239abd2b0240b11faa.md)
-
-Machines and vehicles
-
-### [Human resource](nft_categories/Human%20Resource%2085e2abba371646419e34810992732ccf.md)
+### [Human Resource](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Human%20Resource%2085e2abba371646419e34810992732ccf.md)
 
 Workforce
 
-### [Military](nft_categories/Military%20f21cf096ac8843fbad1c9996f102c88c.md)
-
-Armed force
-
-### [Blueprint](nft_categories/Blueprint%20321b43c550ba4df8af7eb5f37c19d753.md)
+### [Blueprint](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Blueprint%20321b43c550ba4df8af7eb5f37c19d753.md)
 
 Document for other NFT items construction
 
-### [Portal](nft_categories/Portal%20859902d996dd4416913205080dc955ad.md)
+### [Machine](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Machine%205c71927085e244239abd2b0240b11faa.md)
+
+Machines and equipment
+
+### [Lambase Station](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Lambase%20Station%203a9e6d4ae99645e28b6c0aecac17e82c.md)
+
+Different types of Lambase station on Lambomoon
+
+### [Spacecraft](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Spacecraft%208318fc40fa2c4692b77e16e55871ebf7.md)
+
+Spacecrafts
+
+### [Military](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Military%20f21cf096ac8843fbad1c9996f102c88c.md)
+
+Armed force
+
+### [Portal](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Portal%20859902d996dd4416913205080dc955ad.md)
 
 Tele-portal
 
-## 2. Availability
+### [Lambo Land](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Lambo%20Land%20fa665279b9934c98a85638b630224fc3.md)
 
-### List of NFT categories available for NFT public sale
+Land on Lambo planet
+
+## 2. NFT Source
+
+### Available for NFT public sale
 
 - Lambomoon Land
 - Material
 - Human Resource
-- Blueprint
+- Blueprint ( except for Portal blueprints )
 
-### List of NFT categories can be minted in NFT Engineering
+### Minted in NFT Engineering
 
-- Lambase Section
-- Equipment
+- Lambase Station
+- Spacecraft
+- Machine
 - Military
 - Portal
 
+### Obtained in the game
+
+- Lambo Land
+- Portal Blueprint
+
 ## 3. NFT Engineering
 
-In progress..
+Here is an overview of **NFT Resource Dependency Graph.**
+
+You can find detail about engineering formula for individual NFT items in their own sub-pages.
+
+![NFT-system.drawio(1).png](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/NFT-system.drawio.png)

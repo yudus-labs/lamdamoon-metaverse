@@ -8,5 +8,5 @@
 
 ### Sources
 
-- Mining on Lambo planet
+- Mining on Lamda planet
 - Buy on NFT public sale

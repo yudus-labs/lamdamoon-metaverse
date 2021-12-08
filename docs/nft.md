@@ -16,7 +16,7 @@ Note that, all NFT items are exchangeable on marketplace.
 
 ## 1. NFT Categorization
 
-### [Lambomoon Land](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Lambomoon%20Land%2074198bbe6d7f400993bad3543b9f43ed.md)
+### [Lamdamoon Land](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Lamdamoon%20Land%2074198bbe6d7f400993bad3543b9f43ed.md)
 
 This is where Lambase stations are built
 
@@ -38,7 +38,7 @@ Machines and equipment
 
 ### [Lambase Station](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Lambase%20Station%203a9e6d4ae99645e28b6c0aecac17e82c.md)
 
-Different types of Lambase station on Lambomoon
+Different types of Lambase station on Lamdamoon
 
 ### [Spacecraft](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Spacecraft%208318fc40fa2c4692b77e16e55871ebf7.md)
 
@@ -52,15 +52,15 @@ Armed force
 
 Tele-portal
 
-### [Lambo Land](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Lambo%20Land%20fa665279b9934c98a85638b630224fc3.md)
+### [Lamda Land](NFT%20Composition%2079eb28a204d84f808d4e5fc290eb57dc/Lamda%20Land%20fa665279b9934c98a85638b630224fc3.md)
 
-Land on Lambo planet
+Land on Lamda planet
 
 ## 2. NFT Source
 
 ### Available for NFT public sale
 
-- Lambomoon Land
+- Lamdamoon Land
 - Material
 - Human Resource
 - Blueprint ( except for Portal blueprints )
@@ -75,7 +75,7 @@ Land on Lambo planet
 
 ### Obtained in the game
 
-- Lambo Land
+- Lamda Land
 - Portal Blueprint
 
 ## 3. NFT Engineering

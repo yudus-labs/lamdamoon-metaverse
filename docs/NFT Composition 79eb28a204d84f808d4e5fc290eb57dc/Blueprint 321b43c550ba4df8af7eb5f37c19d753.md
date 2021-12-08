@@ -10,7 +10,7 @@ Blueprints for infrastructure, machine, equipment...
 - —
 - Construction Machine Blueprint
 - Mining Machine Blueprint
-- Lambonium Reactor Blueprint
+- Lamdanium Reactor Blueprint
 - Nuclear Generator Blueprint
 - —
 - Fighter Blueprint
@@ -23,4 +23,4 @@ Blueprints for infrastructure, machine, equipment...
 ### Sources
 
 - Buy on NFT public sale
-- Collected on Lambo land plots
+- Collected on Lamda land plots

@@ -1,4 +1,4 @@
-# Lambomoon Land
+# Lamdamoon Land
 
 ### Classes
 

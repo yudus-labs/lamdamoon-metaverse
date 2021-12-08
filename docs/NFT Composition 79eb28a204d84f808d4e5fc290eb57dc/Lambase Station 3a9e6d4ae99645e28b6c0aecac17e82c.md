@@ -1,6 +1,6 @@
 # Lambase Station
 
-There are 3 classes of Lambase moon station, in corresponding to 3 land sizes on Lambomoon
+There are 3 classes of Lambase moon station, in corresponding to 3 land sizes on Lamdamoon
 
 ### Classes
 
